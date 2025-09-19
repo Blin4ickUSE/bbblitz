@@ -1,6 +1,6 @@
 ---
 name: 💡 Idea or Suggestion
-description: Suggest an idea or new feature for this project.
+about: Suggest an idea or new feature for this project.
 title: "[Idea] Your idea"
 labels: "idea"
 assignees: 
