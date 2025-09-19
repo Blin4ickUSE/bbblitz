@@ -3,7 +3,7 @@ name: 💡 Idea or Suggestion
 description: Suggest an idea or new feature for this project.
 title: "[Idea] Your idea"
 labels: "idea"
-assignees: ""
+assignees: "124"
 ---
 
 ### Is your feature request related to a problem? Please describe.
