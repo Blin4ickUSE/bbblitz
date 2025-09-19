@@ -1,6 +1,6 @@
 ---
-name: Bug Report
-description: Report something that's broken or not working correctly.
+name: ⚠️ Bug Report
+about: Report something that's broken or not working correctly.
 title: "[Bug] Brief description of the problem"
 labels: "bug"
 assignees: "Bug"
