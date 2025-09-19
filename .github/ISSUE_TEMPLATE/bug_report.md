@@ -2,7 +2,7 @@
 name: "🐛 Bug Report"
 description: "Report something that's broken or not working correctly."
 title: "[Bug]: "
-labels: ["bug", "needs-triage"]
+labels: ["Bug or problem"]
 assignees: ""
 ---
 
