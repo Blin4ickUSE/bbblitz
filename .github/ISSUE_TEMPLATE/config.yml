@@ -1,0 +1,14 @@
+blank_issues_enabled: false # Force users to use a template
+
+contact_links:
+  - name: 📖 Check the Wiki / Documentation First
+    url: https://github.com/your-username/your-mod-repo/wiki # Replace with your actual wiki URL
+    about: Please check the documentation before asking a question. The answer might already be there!
+
+  - name: 🗨️ General Discussion (CurseForge/Modrinth)
+    url: https://www.curseforge.com/minecraft/mc-mods/your-mod-name # Replace with your link
+    about: Great for general questions, showcases, and discussion. Bug reports should stay here on GitHub.
+
+  - name: 💬 Join our Discord Community
+    url: https://discord.gg/your-invite-link # Replace with your link
+    about: For real-time help and chatting with other players. Please be patient and respectful.
