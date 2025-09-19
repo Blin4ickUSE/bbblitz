@@ -1,8 +1,8 @@
 ---
-name: "💡 Idea or Suggestion"
-description: "Suggest an idea or new feature for this project."
-title: "[Idea]: "
-labels: ["Idea and suggestion"]
+name: 💡 Idea or Suggestion
+description: Suggest an idea or new feature for this project.
+title: "[Idea] Your idea"
+labels: "idea"
 assignees: ""
 ---
 
